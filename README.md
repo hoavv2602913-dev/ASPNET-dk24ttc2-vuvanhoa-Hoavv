@@ -1,6 +1,36 @@
-# ASPNET-dk24ttc2-vuvanhoa-Hoavv
-# Chuyên đề ASP.NET Trường Đại học Trà Vinh
-# Chủ đề: Xây dựng website bán Laptop
-# Họ và tên Sinh viên : Vũ Văn Hòa - Lớp DK24TTC2
-# Email: hoavv2602913@tvu-onschool.edu.vn
-# SĐT: 0367.531.194
+# 📘 Thông tin Đề tài ASP.NET
+
+## 🏫 Trường Đại học Trà Vinh
+**Chuyên đề:** ASP.NET
+
+---
+
+## 💡 Chủ đề
+**Xây dựng website bán Laptop**
+
+---
+
+## 👨‍🎓 Thông tin Sinh viên
+
+| Họ và tên     | Lớp       | Cơ sở ngành                             | Giảng viên hướng dẫn |
+|----------------|------------|--------------------------------------|-----------------------|
+| **Vũ Văn Hòa** | DK24TTC2   | ASPNET-dk24ttc2-vuvanhoav-Hoavv     | Giảng viên: TS. Đoàn Phước Miền  |
+
+---
+
+## 📧 Liên hệ
+
+- **Email:** [hoavv2602913@tvu-onschool.edu.vn](mailto:hoavv2602913@tvu-onschool.edu.vn)  
+- **SĐT:** 0367 531 194  
+
+---
+
+## 🕹️ Ghi chú
+
+> Dự án được phát triển trong khuôn khổ môn học **ASP.NET** tại **Trường Đại học Trà Vinh**.  
+> Sinh viên chịu trách nhiệm toàn bộ quá trình **thiết kế** và **xây dựng website bán laptop**.
+
+---
+
+**Tác giả:** Vũ Văn Hòa  
+**Ngày cập nhật:** 15/10/2025
