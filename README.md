@@ -2,3 +2,5 @@
 # Chuyên đề ASP.NET Trường Đại học Trà Vinh
 # Chủ đề: Xây dựng website bán Laptop
 # Họ và tên Sinh viên : Vũ Văn Hòa - Lớp DK24TTC2
+# Email: hoavv2602913@tvu-onschool.edu.vn
+# SĐT: 0367.531.194
