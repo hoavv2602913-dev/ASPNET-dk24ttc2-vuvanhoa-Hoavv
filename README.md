@@ -31,6 +31,6 @@
 > Sinh viên chịu trách nhiệm toàn bộ quá trình **thiết kế** và **xây dựng website bán laptop**.
 
 ---
-
+> Cập nhật tạo thêm các thư mục con trong thư mục thesis
 **Tác giả:** Vũ Văn Hòa  
 **Ngày cập nhật:** 16/10/2025
