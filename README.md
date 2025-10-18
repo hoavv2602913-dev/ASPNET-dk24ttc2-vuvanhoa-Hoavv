@@ -33,5 +33,6 @@
 ---
 > Cập nhật tạo thêm các thư mục con trong thư mục thesis.
 ---
-**Tác giả:** Vũ Văn Hòa  
 **Ngày cập nhật:** 16/10/2025
+
+**Ngày cập nhật: ** 18/10/2025 : Tìm hiểu cơ sở lý thuyết, các khái niệm, công cụ để thực hiện đề tài
