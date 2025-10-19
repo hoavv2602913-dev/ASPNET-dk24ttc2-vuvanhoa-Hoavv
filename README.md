@@ -33,7 +33,7 @@
 ---
 > Cập nhật tạo thêm các thư mục con trong thư mục thesis.
 ---
-**Ngày cập nhật:** 16/10/2025
+**Báo cáo cập nhật
 
-> Ngày cập nhật: ** 18/10/2025 : Tìm hiểu cơ sở lý thuyết, các khái niệm, công cụ để thực hiện đề tài
-> Ngày cập nhật: ** 19/10/2025 : Upload báo cáo về Cơ sở lý thuyết phục vụ đề tài: Chương 1, Chương 2.
+> Ngày cập nhật: ** 18/10/2025 : Tìm hiểu cơ sở lý thuyết, các khái niệm, công cụ để thực hiện đề tài **.
+> Ngày cập nhật: ** 19/10/2025 : Upload báo cáo về Cơ sở lý thuyết phục vụ đề tài: Chương 1, Chương 2 **.
