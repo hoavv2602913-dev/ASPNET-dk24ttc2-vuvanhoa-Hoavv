@@ -37,6 +37,6 @@
 
 > Ngày cập nhật: ** 18/10/2025 : Tìm hiểu cơ sở lý thuyết, các khái niệm, công cụ để thực hiện đề tài **.  
 > Ngày cập nhật: ** 19/10/2025 : Upload báo cáo về Cơ sở lý thuyết phục vụ đề tài: Chương 1, Chương 2 **.  
-> Ngày cập nhật: ** 20/10/2025 : Thực hành sử dụng Bootstrap để tạo giao diện trang Web cơ bản **.
+> Ngày cập nhật: ** 20/10/2025 : Thực hành sử dụng Bootstrap để tạo giao diện trang Web cơ bản **.  
 > Ngày cập nhật: ** 21/10/2025 : Thực hành sử dụng SQL Server tạo các bảng dữ liệu Sản phẩm, Người dùng **.  
 ---
