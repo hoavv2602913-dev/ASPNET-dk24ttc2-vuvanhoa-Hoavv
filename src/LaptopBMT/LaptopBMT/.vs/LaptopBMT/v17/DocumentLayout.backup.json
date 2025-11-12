@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|e:\\hoavv\\project\\laptopbmt\\laptopbmt\\laptopbmt\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|e:\\hoavv\\project\\laptopbmt\\laptopbmt\\laptopbmt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|e:\\hoavv\\project\\laptopbmt\\laptopbmt\\laptopbmt\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LaptopBMT\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LaptopBMT\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:50:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LaptopBMT\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "LaptopBMT\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T08:22:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "LaptopBMT\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "LaptopBMT\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T07:30:31.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
