@@ -41,4 +41,5 @@
 > Ngày cập nhật: ** 21/10/2025 : Thực hành sử dụng SQL Server tạo các bảng dữ liệu Sản phẩm, Người dùng, cập nhật báo cáo chuyên đề.  
 > Ngày cập nhật: ** 28/10/2025 : Thực hành tạo các chức năng giao diện, thêm, sửa sản phẩm lưu vào CSDL **.  
 > Ngày cập nhật: ** 8/11/2025 : Thực hành tạo các chức năng giao diện đặt hàng lưu vào CSDL **.  
+> Ngày cập nhật: ** 12/11/2025 : Upload code lên /src **.  
 ---
