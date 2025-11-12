@@ -13,7 +13,7 @@ namespace LaptopBMT.Controllers
         {
             _context = context;
         }
-
+        // Tìm kiếm sản phẩm theo từ khóa
         public IActionResult Search(string keyword)
         {
             if (string.IsNullOrEmpty(keyword))
