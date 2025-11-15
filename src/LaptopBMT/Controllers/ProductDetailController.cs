@@ -17,15 +17,5 @@ public class ProductDetailController : Controller
 
         return View(product);
     }
-/*
-    public IActionResult Detail(int id)
-    {
-        var product = _context.Products.FirstOrDefault(p => p.ProductId == id);
-        if (product == null)
-        {
-            return NotFound();
-        }
 
-        return View(product);
-    } */
 }

@@ -54,8 +54,6 @@ namespace LaptopBMT.Controllers
             return View();
         }
 
-
-
         // 🚫 Không có quyền truy cập
         public IActionResult AccessDenied()
         {

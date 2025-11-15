@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQ82XWaGhRU=",
+  "dgSpecHash": "KpwoKhq1ZZI=",
   "success": true,
-  "projectFilePath": "E:\\Hoavv\\Project\\LaptopBMT\\LaptopBMT\\LaptopBMT\\LaptopBMT.csproj",
+  "projectFilePath": "C:\\Users\\CSVC\\OneDrive\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CSVC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\CSVC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

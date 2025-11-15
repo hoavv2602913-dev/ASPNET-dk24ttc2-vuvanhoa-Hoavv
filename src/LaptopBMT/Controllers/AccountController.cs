@@ -51,7 +51,7 @@ namespace LaptopBMT.Controllers
             // Cập nhật thông tin cơ bản
             user.FullName = model.FullName;
             user.Email = model.Email;
-            user.PhoneNumber = model.PhoneNumber; // Giả sử bạn đã sửa thành 'string' trong User.cs
+            user.PhoneNumber = model.PhoneNumber;
             user.Address = model.Address;
 
             // === LOGIC XỬ LÝ AVATAR ===
@@ -99,7 +99,7 @@ namespace LaptopBMT.Controllers
 
 
         // (Các action khác: Login, Register, Logout... giữ nguyên như cũ)
-        // ... (phần code cũ của bạn ở dưới đây) ...
+        
         #region Login, Register, Logout (Code cũ)
 
         // ✅ Trang đăng nhập
