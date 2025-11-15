@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD:src/LaptopBMT/obj/LaptopBMT.csproj.nuget.dgspec.json
-    "C:\\Users\\CSVC\\OneDrive\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\CSVC\\OneDrive\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\CSVC\\OneDrive\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT.csproj",
-        "projectName": "LaptopBMT",
-        "projectPath": "C:\\Users\\CSVC\\OneDrive\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT.csproj",
-        "packagesPath": "C:\\Users\\CSVC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CSVC\\OneDrive\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\obj\\",
-=======
     "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\LaptopBMT.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\LaptopBMT.csproj",
         "packagesPath": "C:\\Users\\HOAVV\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\obj\\",
->>>>>>> 0cc0d45c21f7fb5bb6a7c76c5ad4dfc15bc6f3d5:src/LaptopBMT/LaptopBMT/obj/LaptopBMT.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

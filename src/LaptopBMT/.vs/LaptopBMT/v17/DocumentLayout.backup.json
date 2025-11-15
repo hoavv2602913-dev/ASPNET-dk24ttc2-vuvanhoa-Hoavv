@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|c:\\users\\hoavv\\documents\\github\\aspnet-dk24ttc2-vuvanhoa-hoavv\\src\\laptopbmt\\laptopbmt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|c:\\users\\hoavv\\documents\\github\\aspnet-dk24ttc2-vuvanhoa-hoavv\\src\\laptopbmt\\laptopbmt\\areas\\admin\\controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\areas\\admin\\controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|c:\\users\\hoavv\\documents\\github\\aspnet-dk24ttc2-vuvanhoa-hoavv\\src\\laptopbmt\\laptopbmt\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|c:\\users\\hoavv\\documents\\github\\aspnet-dk24ttc2-vuvanhoa-hoavv\\src\\laptopbmt\\laptopbmt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|solutionrelative:laptopbmt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59AF9A86-5278-4E79-9BF3-785038892DBB}|LaptopBMT\\LaptopBMT.csproj|c:\\users\\hoavv\\documents\\github\\aspnet-dk24ttc2-vuvanhoa-hoavv\\src\\laptopbmt\\laptopbmt\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,28 +34,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LaptopBMT\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LaptopBMT\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:43:24.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "RelativeDocumentMoniker": "LaptopBMT\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "ToolTip": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "RelativeToolTip": "LaptopBMT\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:43:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LaptopBMT\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LaptopBMT\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:39:55.225Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Areas\\Admin\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "LaptopBMT\\Areas\\Admin\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Areas\\Admin\\Controllers\\UsersController.cs",
               "RelativeToolTip": "LaptopBMT\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAwKwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALoAAAAAAAAAAAAiwLkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T14:06:03.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductDetailController.cs",
               "DocumentMoniker": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Controllers\\ProductDetailController.cs",
               "RelativeDocumentMoniker": "LaptopBMT\\Controllers\\ProductDetailController.cs",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "LaptopBMT\\Controllers\\ProductDetailController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T14:01:04.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T14:01:04.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\HOAVV\\Documents\\GitHub\\ASPNET-dk24ttc2-vuvanhoa-Hoavv\\src\\LaptopBMT\\LaptopBMT\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "LaptopBMT\\Controllers\\CartController.cs",
@@ -64,8 +114,7 @@
               "RelativeToolTip": "LaptopBMT\\Controllers\\CartController.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAcwJMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:46:51.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T13:46:51.408Z"
             }
           ]
         }
