@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaptopBMT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+711089def41f1844e9a4eddde2e4725083f948bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2fd385a990c78026fc297f4800c168e3e61c45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaptopBMT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaptopBMT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
