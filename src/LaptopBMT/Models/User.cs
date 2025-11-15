@@ -14,7 +14,7 @@ namespace LaptopBMT.Models
         public string PasswordHash { get; set; } = string.Empty;
         public string? Address { get; set; }
         public string? PhoneNumber { get; set; }
-        // Thêm các property bị thiếu
+
         public string? FullName { get; set; }
         public string? Email { get; set; }
         public ICollection<Cart> Carts { get; set; } = new List<Cart>();

@@ -1,7 +1,7 @@
 ﻿using LaptopBMT.Data;
 using LaptopBMT.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore; // Cần thêm using này cho .FirstOrDefaultAsync()
 
 namespace LaptopBMT.Areas.Admin.Controllers
 {
@@ -57,6 +57,7 @@ namespace LaptopBMT.Areas.Admin.Controllers
             return View(user);
         }
 
+        // ⭐ [ĐÃ CẬP NHẬT] - Thêm IFormFile? AvatarFile và xử lý logic
         [HttpPost]
         [ValidateAntiForgeryToken] // Thêm để bảo mật
         public async Task<IActionResult> Edit(int id, string newPassword, User user, IFormFile? AvatarFile)
@@ -77,12 +78,13 @@ namespace LaptopBMT.Areas.Admin.Controllers
             // Nếu có nhập mật khẩu mới thì mới đổi
             if (!string.IsNullOrWhiteSpace(newPassword))
             {
-                
-                // hash (mã hóa) mật khẩu này trước khi lưu vào DB.
+                // ⚠️ CẢNH BÁO BẢO MẬT: 
+                // Bạn đang lưu mật khẩu rõ (clear-text). 
+                // Bạn PHẢI hash (mã hóa) mật khẩu này trước khi lưu vào DB.
                 existingUser.PasswordHash = newPassword;
             }
 
-            // === LOGIC XỬ LÝ AVATAR (Lấy từ action Profile) ===
+            // === LOGIC XỬ LÝ AVATAR (Lấy từ action Profile của bạn) ===
             if (AvatarFile != null && AvatarFile.Length > 0)
             {
                 // Xóa ảnh cũ nếu có

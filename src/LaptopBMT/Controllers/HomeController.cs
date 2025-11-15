@@ -14,7 +14,7 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    // Phân trang sản phẩm trên trang chủ
     public IActionResult Index(int page = 1)
     {
         int pageSize = 8; // ✅ số sản phẩm mỗi trang
