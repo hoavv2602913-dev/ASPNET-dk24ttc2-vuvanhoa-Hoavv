@@ -177,3 +177,16 @@ E:\Hoavv\Project\LaptopBMT\LaptopBMT\LaptopBMT\obj\Debug\net8.0\refint\LaptopBMT
 E:\Hoavv\Project\LaptopBMT\LaptopBMT\LaptopBMT\obj\Debug\net8.0\LaptopBMT.pdb
 E:\Hoavv\Project\LaptopBMT\LaptopBMT\LaptopBMT\obj\Debug\net8.0\LaptopBMT.genruntimeconfig.cache
 E:\Hoavv\Project\LaptopBMT\LaptopBMT\LaptopBMT\obj\Debug\net8.0\ref\LaptopBMT.dll
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.csproj.AssemblyReference.cache
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.AssemblyInfoInputs.cache
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.AssemblyInfo.cs
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.csproj.CoreCompileInputs.cache
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.RazorAssemblyInfo.cache
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.RazorAssemblyInfo.cs
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.sourcelink.json
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.dll
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\refint\LaptopBMT.dll
+C:\Users\CSVC\OneDrive\Documents\GitHub\ASPNET-dk24ttc2-vuvanhoa-Hoavv\src\LaptopBMT\obj\Debug\net8.0\LaptopBMT.pdb

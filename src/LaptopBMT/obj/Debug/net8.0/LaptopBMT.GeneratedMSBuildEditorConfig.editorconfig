@@ -80,6 +80,162 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminOrder/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluT3JkZXJcT3JkZXJEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminOrder/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluT3JkZXJcT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminProduct/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/AdminProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXEFkbWluUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXE9yZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXFVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXFVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXEFyZWFzXEFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Account/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFjY291bnRcQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFjY291bnRcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFjY291bnRcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/AdminProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/AdminProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/AdminProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Admin/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Admin/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEFkbWluXFVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXENhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Cart/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXENhcnRcU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEhvbWVcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXE9yZGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Order/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXE9yZGVyXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/ProductDetail/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXFByb2R1Y3REZXRhaWxcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Product/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXFByb2R1Y3RcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/Views/Account/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -175,6 +331,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/LaptopBMT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFwdG9wQk1UXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-orbjkldms4
 
 [C:/Users/CSVC/OneDrive/Documents/GitHub/ASPNET-dk24ttc2-vuvanhoa-Hoavv/src/LaptopBMT/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

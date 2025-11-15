@@ -17,5 +17,5 @@ public class ProductDetailController : Controller
 
         return View(product);
     }
-
+ 
 }
